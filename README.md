@@ -49,4 +49,4 @@ open index.html
 
 ## Author
 
-**Paul Burakov** — [GitHub](https://github.com/PaulBurakov) · [LinkedIn](https://linkedin.com/in/paulburakov)
+**Paul Burakov** — [GitHub](https://github.com/PaulBurakov) · [LinkedIn]([https://linkedin.com/in/paulburakov](https://www.linkedin.com/in/paul-burakov-645063293/))
